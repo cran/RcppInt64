@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -f src/*.o src/*.so src/*.dll \
+   inst/client/*/src/*.o inst/client/*/src/*.so inst/client/*/src/*.dll \
+   inst/client/*/int64*_*.tar.gz
