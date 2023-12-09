@@ -1,11 +1,11 @@
-e4e1a88114d61b52ce3712889508fec2 *ChangeLog
-0418623030e399ecdf139e500539179b *DESCRIPTION
+f1b2662b8f625a4f0f18cea75e5bbf64 *ChangeLog
+dc201b47b200e7b3d19f1acef2162450 *DESCRIPTION
 145d6cef96baa11ef1e7640f0a12f632 *NAMESPACE
 f17b95e215b2c135a49f3559b2835fda *R/RcppExports.R
 69a6ff033aea1a075b13b6b4981df7b5 *README.md
-ee59be5e1e146725325dcfb826311b60 *build/partial.rdb
+c9136f3cc0d6a038fbfade7d9c653c3b *build/partial.rdb
 bb85424a68d62213348a92f5f77e63e2 *cleanup
-ba78a07a647eadbc762197b621f3a38a *inst/NEWS.Rd
+dd5789595b4a3ff9e48c85472f3c5583 *inst/NEWS.Rd
 cf643f5abc59025c0722f3b37d41b5e7 *inst/client/int64header/DESCRIPTION
 4ca5cab3b083b27679d79d80334e319a *inst/client/int64header/NAMESPACE
 94860bd44d02b46cd53c26795a4f56f8 *inst/client/int64header/R/RcppExports.R
@@ -15,7 +15,7 @@ aec39c3ef589b2d035b5c269494f274e *inst/client/int64header/src/RcppExports.cpp
 1b65d9ad80bc92ac5ac7c807e5e86647 *inst/client/int64header/src/useInt64.cpp
 960e28f6e4b45457e5bd395dfd5b153e *inst/include/RcppInt64
 e2521f48ceb9c1883ed419f57f966623 *inst/include/rcppint64_bits/as_wrap.h
-64369d0d6779a83ce4729fbcc35f7688 *inst/include/rcppint64_bits/functions.h
+b8b56c1eeb10dc7bf825ae3b2e65ab91 *inst/include/rcppint64_bits/functions.h
 cd2a879e162344c0ba582329c4ee83cf *inst/tinytest/cpp/int64_as_wrap.cpp
 5a7462644497c65eceb1b35dba94d041 *inst/tinytest/cpp/int64tests.cpp
 a3d726e480bbfe90f0a97fe7f363ead5 *inst/tinytest/cpp/nanotime_tests.cpp
