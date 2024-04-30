@@ -1,3 +1,21 @@
+2024-04-30  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Date, Version): Release 0.0.5
+
+2024-04-29  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Roll micro relase and date
+
+	* inst/tinytest/cpp/int64tests.cpp: One more test
+	* inst/tinytest/test-int64.R: Idem
+
+2024-04-28  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Roll micro relase and date
+
+	* inst/include/rcppint64_bits/functions.h: Use Rf_asS4() instead of
+	the 'not API' function SET_S4_OBJECT
+
 2023-12-09  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Date, Version): Release 0.0.4
